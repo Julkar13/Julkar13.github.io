@@ -19,15 +19,23 @@ Learner
 **Education:**
 
 Bachelor of Software Engineering, University Technology Malaysia (Current)
-BIAM Laboratory school and college  – Primary Education
+
+IAM Laboratory school and college  – Primary Education
+
 Millinium Scholastic School and College – Higher secondary  Education
 
 **Skills:**
 
 C++ Programming
+
 Python Programmin
+
 Photoshop
+
 DaVinci Resolve (video editor)
+
+
+
 
 **Reflection**
 
