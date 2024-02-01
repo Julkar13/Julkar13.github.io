@@ -37,7 +37,7 @@ DaVinci Resolve (video editor)
 
 
 
-**Reflection**
+**Reflection:**
 
 **NALI visit:**
 
